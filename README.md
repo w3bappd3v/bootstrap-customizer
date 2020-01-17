@@ -8,8 +8,8 @@ CL1
 node server
 
 CL2
-grunt
+gulp
 
-browser to localhost:3000 from grunt output
+browse to localhost:3000 from gulp output
 
-change SCSS and see changes instantly:)
+change SCSS and reflect instantly:)
