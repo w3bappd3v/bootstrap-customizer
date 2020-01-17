@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-customizer",
+  "version": "1.0.0",
+  "description": "local api server",
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
