@@ -12,4 +12,4 @@ gulp
 
 browse to localhost:3000 from gulp output
 
-changes to SCSS and reflect instantly:)
+changes to SCSS reflect instantly:)
